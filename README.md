@@ -458,16 +458,6 @@ For questions or issues:
 
 This project was developed for educational purposes as part of academic work.
 
-## 👤 Author
-
-Developed as part of coursework for industrial automation and quality control.
-
----
-
-**Developed with ❤️ for industrial automation**
-
-*Transforming manual inspection into automated intelligence*
-
 ## 🚀 Quick Start
 
 ```bash
