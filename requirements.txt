@@ -1,0 +1,8 @@
+# Industrial Quality Control System
+# Requirements file
+
+# No external dependencies required
+# The system uses only Python standard library
+
+# Python version required: 3.6+
+
